@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "project_name": "project_demo",
+      "description": "Demo project for testing FCM connectivity",
+      "customers": [
+        {
+          "customer_id": "customer_demo",
+          "name": "Customer Demo",
+          "description": "Demo customer for project_demo",
+          "hq_address": "123 Demo Street, Tunis",
+          "logo_link": "N/A",
+          "branches": [
+            {
+              "branch_id": "branch_demo",
+              "name": "Branch Demo",
+              "address": "456 Branch Road, Tunis",
+              "localisation": "N/A",
+              "image_link": "N/A",
+              "fcm_topic": "br_demo0000000001_lastready"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "project_name": "EasyDineLite",
+      "description": "EasyDine suite for restaurant ticket management",
+      "customers": [
+        {
+          "customer_id": "TwoM",
+          "name": "TwoM Restaurant Group",
+          "description": "TwoM customer for EasyDine",
+          "hq_address": "202 TwoM HQ, Tunis",
+          "logo_link": "https://www.instagram.com/two_m_pizzeria/",
+          "branches": [
+            {
+              "branch_id": "AFH02-2026-0002",
+              "name": "Nabeul Branch",
+              "address": "AFH city Mrezgua, Nabeul",
+              "localisation": "CMPR+7VV Nabeul",
+              "image_link": "https://img3.restaurantguru.com/w550/h367/rb3b-design-Two-M-Pizzeria-1-0.jpg",
+              "fcm_topic": "br_9f3a7c1e2b5d4a90_lastready"
+            },
+            {
+              "branch_id": "Hammamet_branch",
+              "name": "Hammamet Branch",
+              "address": "404 Hammamet Road, Hammamet",
+              "localisation": "N/A",
+              "image_link": "https://lh3.googleusercontent.com/p/AF1QipNB9sa948ZXCAszC3uo9pWWtM-a-m84lbit_HeB=w244-h408-n-k-no-nu",
+              "fcm_topic": "br_1c8e6f42a730be15_lastready"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
