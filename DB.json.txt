@@ -17,6 +17,7 @@
               "address": "456 Branch Road, Tunis",
               "localisation": "N/A",
               "image_link": "N/A",
+              "menu_link": "N/A",
               "fcm_topic": "br_demo0000000001_lastready"
             }
           ]
@@ -40,6 +41,7 @@
               "address": "AFH city Mrezgua, Nabeul",
               "localisation": "CMPR+7VV Nabeul",
               "image_link": "https://img3.restaurantguru.com/w550/h367/rb3b-design-Two-M-Pizzeria-1-0.jpg",
+              "menu_link": "https://raketcontent.com/Black_Illustrative_Restaurant_Menu_20241220_125012_0000_126a0e6b84.png",
               "fcm_topic": "br_9f3a7c1e2b5d4a90_lastready"
             },
             {
@@ -48,6 +50,7 @@
               "address": "404 Hammamet Road, Hammamet",
               "localisation": "N/A",
               "image_link": "https://lh3.googleusercontent.com/p/AF1QipNB9sa948ZXCAszC3uo9pWWtM-a-m84lbit_HeB=w244-h408-n-k-no-nu",
+              "menu_link": "N/A",
               "fcm_topic": "br_1c8e6f42a730be15_lastready"
             }
           ]
