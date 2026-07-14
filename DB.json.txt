@@ -50,7 +50,7 @@
               "address": "404 Hammamet Road, Hammamet",
               "localisation": "N/A",
               "image_link": "https://lh3.googleusercontent.com/p/AF1QipNB9sa948ZXCAszC3uo9pWWtM-a-m84lbit_HeB=w244-h408-n-k-no-nu",
-              "menu_link": "N/A",
+              "menu_link": "https://i.pinimg.com/736x/eb/5a/c5/eb5ac541b9a560eee230b0f584b206e0.jpg",
               "fcm_topic": "br_1c8e6f42a730be15_lastready"
             }
           ]
